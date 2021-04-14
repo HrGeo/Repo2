@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6E88-A28A
+
+ Directory of C:\Users\georg\Desktop\my project
+
+04/14/2021  04:18 PM    <DIR>          .
+04/14/2021  04:18 PM    <DIR>          ..
+04/14/2021  04:18 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  433,534,767,104 bytes free
